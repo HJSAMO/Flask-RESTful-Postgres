@@ -1,4 +1,4 @@
-# Django-DRF-UserAPI
+# Flask-RESTful-Postgres
 
 Python Flask RESTful Server
 
